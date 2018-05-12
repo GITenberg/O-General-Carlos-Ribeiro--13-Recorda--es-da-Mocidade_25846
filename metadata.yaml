@@ -1,0 +1,36 @@
+_repo: O-General-Carlos-Ribeiro--13-Recorda--es-da-Mocidade_25846
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25846'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Ribeiro, Carlos, 1813-1882'
+title: "O General Carlos Ribeiro\r\nRecordações da Mocidade"
+url: http://www.gutenberg.org/ebooks/25846
